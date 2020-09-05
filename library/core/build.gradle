@@ -12,8 +12,6 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 apply from: "$gradle.ext.exoplayerSettingsDir/common_library_config.gradle"
-apply plugin: 'com.github.dcendents.android-maven'  
-group='com.github.skkshoaib'
 
 android {
     defaultConfig {
